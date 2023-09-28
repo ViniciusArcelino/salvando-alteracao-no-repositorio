@@ -14,4 +14,4 @@ Repositório para armazenar resumos do curso de versionamento de código com git
 git init
 
 ```
-## objetivo do dia finalizar aula de git e git hub
+## objetivo do dia finalizar aula de git e git hub amém
